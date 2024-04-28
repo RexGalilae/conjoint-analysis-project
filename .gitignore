@@ -1,0 +1,28 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python virtual environment
+venv/
+
+# Jupyter Notebook configuration file
+.jupyter/
+
+# Jupyter Notebook kernel connection file
+*.json
+
+# Jupyter Notebook log files
+*.log
+
+# Jupyter Notebook checkpoints
+**/.ipynb_checkpoints/
+
+# Jupyter Notebook temporary files
+**/.~*
+
+# Jupyter Notebook output files
+**/*.html
+**/*.pdf
+**/*.pyc
+
+# Jupyter Notebook cache
+**/__pycache__/
